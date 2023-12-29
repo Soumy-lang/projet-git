@@ -24,13 +24,10 @@ Docker desktop
 ### Démarrage
 pour lancer l'application, executer ces commandes dans un schell
 
-``docker compose build``
+``docker compose build`` et ``docker compose down -d``
 
-``docker compose down -d``
+et pour arreter l'application ``docker compose down``
 
-et pour arreter l'application
-
-``docker compose down``
 
 ### Fabriqué avec
 le but du projet etant de developper from scratch, voici quelques outils que nous avons utilisés
