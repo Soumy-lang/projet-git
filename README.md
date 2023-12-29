@@ -44,7 +44,7 @@ Ce projet est un projet scolaire, les contributions exterieurs ne sont pas autor
 ### Auteurs
 * **Alice LEMERRE** _alias_ [@AliceLemerre](https://github.com/AliceLemerre)
 * **Nadime NEFFATI** _alias_ [@nneffati2u](https://github.com/nneffati2u)
-* **SoumayaGAMBO MAGAGI** _alias_ [@Soumy-lang](https://github.com/Soumy-lang)
+* **Soumaya GAMBO MAGAGI** _alias_ [@Soumy-lang](https://github.com/Soumy-lang)
 
 Lisez la liste des [contributeurs](https://github.com/Soumy-lang/projet-git/contributors) pour voir qui à aidé au projet !
 
