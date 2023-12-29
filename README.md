@@ -24,7 +24,7 @@ Docker desktop
 ### Démarrage
 pour lancer l'application, executer ces commandes dans un schell
 
-``docker compose build`` et ``docker compose down -d``
+``docker compose build`` et ``docker compose up -d``
 
 et pour arreter l'application ``docker compose down``
 
