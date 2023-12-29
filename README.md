@@ -39,6 +39,7 @@ le but du projet etant de developper from scratch, voici quelques outils que nou
 * [Docker desktop](https://docs.docker.com/get-docker/) - Conteneurisation logicielle
 
 ### Contributing
+
 Ce projet est un projet scolaire, les contributions exterieurs ne sont pas autorisées
 
 ### Auteurs
