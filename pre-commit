@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Run ESLint on staged JS files
+git diff --staged --name-only --diff-filter=ACM | grep '\.js$' | xargs npx eslint
+
+# Exit with the result of ESLint
+exit $?
