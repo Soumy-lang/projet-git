@@ -28,6 +28,7 @@ class DB
 
     public function save()
     {
+        $data = $this->getDataObject();
         if( empty($this->getId())){
             $sql = "INSERT INTO " . $this->table . "(" . implode(",", array_keys($data)) . ") 
             VALUES (:" . implode(",:", array_keys($data)) . ")";
