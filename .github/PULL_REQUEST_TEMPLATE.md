@@ -17,3 +17,5 @@ Optional screenshot to add context.
 
 **Comments:**
 Additional informations about what has or has not been added, modified or deleted.
+
+Fixes #
