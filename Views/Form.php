@@ -34,6 +34,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['submit'])) {
 
     <?php endforeach;?>
 
-    <input type="submit" name="submit" value="<?= $config["config"]["submit"]??"Envoyer" ?>">
+    
+
+    <input type="submit" name="submit" value="<?= $config["config"]["submit"]??"Se connecter" ?>">
 </form>
 <?php } ?>
