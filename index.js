@@ -1,4 +1,4 @@
 
 const element = 3;
-console.log(elments);
+console.log(elment);
 
