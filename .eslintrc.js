@@ -26,7 +26,7 @@ module.exports = {
 			"error",
 			"tab"
 		],
-	
+
 		"quotes": [
 			"error",
 			"double"
