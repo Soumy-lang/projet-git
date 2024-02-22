@@ -28,15 +28,15 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `esgi_user` (
-                             `id` int(11) NOT NULL,
-                             `firstname` varchar(25) NOT NULL,
-                             `lastname` varchar(50) NOT NULL,
-                             `email` varchar(320) NOT NULL,
-                             `pwd` varchar(255) NOT NULL,
-                             `status` tinyint(4) NOT NULL DEFAULT 0,
-                             `isDeleted` tinyint(1) NOT NULL DEFAULT 0,
-                             `insertedAt` timestamp NOT NULL DEFAULT current_timestamp(),
-                             `updatedAt` timestamp NULL DEFAULT NULL ON UPDATE current_timestamp()
+                    `id` int(11) NOT NULL,
+                    `firstname` varchar(25) NOT NULL,
+                    `lastname` varchar(50) NOT NULL,
+                    `email` varchar(320) NOT NULL,
+                    `pwd` varchar(255) NOT NULL,
+                    `status` tinyint(4) NOT NULL DEFAULT 0,
+                    `isDeleted` tinyint(1) NOT NULL DEFAULT 0,
+                    `insertedAt` timestamp NOT NULL DEFAULT current_timestamp(),
+                    `updatedAt` timestamp NULL DEFAULT NULL ON UPDATE current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
